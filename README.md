@@ -1,7 +1,7 @@
 go-shp
 ======
 
-![Build status](https://github.com/karnott/go-shp/actions/workflows/build.yml/badge.svg)
+![Build status](https://github.com/DKE-Data/go-shp/actions/workflows/build.yml/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/karnott/go-shp)](https://goreportcard.com/report/github.com/jonas-p/go-shp)
 
 Go library for reading and writing ESRI Shapefiles. This is a pure Golang implementation based on the ESRI Shapefile technical description.
